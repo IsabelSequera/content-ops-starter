@@ -4,15 +4,15 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Welcome! Hi, I'm Sara. Welcome to my portfolio
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      Sara Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
+          🌟 Full stack developer specialized in Front End. I stand out for my adaptability to new technologies, the ability to create intuitive and efficient user interfaces, and the responsibility and commitment to the project.
+
+          🚀 I have experience in React, TypeScript, Next.js, Redux, JavaScript, HTML, CSS, Express, PostgreSQL, VCS tool: Git.
+        actions:
       - label: Get started
         altText: ''
         url: /
